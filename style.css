@@ -1,0 +1,86 @@
+*{
+    box-sizing: border-box;
+   
+    
+}
+.navbar-dark{
+    background-color: #562EFF;
+}
+.nav-item{
+    padding:0 10px ;
+}
+.container{
+    margin-bottom: 20px;
+}
+.column img{
+    width: 56px;
+}
+.containers{
+    width:870px ;
+    height :760px;
+    border: 1px solid #D1D1D1;
+}
+.top{
+    height: 80px;  
+    font-size: 20px;
+    color:rgb(230, 230, 236);
+    color: blueviolet;
+}
+.row{
+    padding: 20px;    
+}
+.pa{
+    position: relative;
+    right:60px;
+    top: 10px;
+}
+.blogimg{
+    width: 177px;
+    height: 117px;
+}
+.float{
+    float:right;
+    position: relative;
+    right: 110px;
+    font-size: 16px;
+}
+.ploat{
+    float: right;
+    position: relative;
+    top: 50px;
+}
+.dan{
+    color: blueviolet;
+}
+.foot{
+    width: 870px;
+    height: 420px;
+    
+    border: 1px solid #D1D1D1;
+}
+.col-md-4 .card{
+box-shadow: 10px 10px 10px 10px whitesmoke;
+    border: none;
+    border-radius: 5px;
+}
+.red{
+    font-size: 10px;
+    color: red;
+}
+.fast{
+    color: red;
+font-size: 10px; 
+}
+.last{
+    font-size: 10px;
+}
+.tast{
+    font-size: 12px;
+}
+.f{
+   font-size: 12px;
+   background-color: palevioletred;   padding: 5px;
+   border-radius: 10px;
+    position: relative;
+    left: 50px;
+}
